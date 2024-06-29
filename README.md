@@ -7,4 +7,4 @@
 站点地址：https://zhangchaney.github.io/
 
 ### 交流与反馈
-:e-mail: zhangqiuqian01@gmail.com
+e-mail zhangqiuqian01@gmail.com
