@@ -8,4 +8,4 @@
 [Linux相关学习笔记](https://zhangchaney.github.io/linux-note)
 
 ### 交流与反馈
-[E-Mail](zhangqiuqian01@gmail.com)
+[E-Mail](zhangqiuqian01@gmail.com) ： **zhangqiuqian01@gmail.com**
