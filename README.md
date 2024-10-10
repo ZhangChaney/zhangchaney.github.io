@@ -6,6 +6,7 @@
 
 - [Hadoop相关学习笔记](https://zhangchaney.github.io/hadoop-note)
 - [Linux相关学习笔记](https://zhangchaney.github.io/linux-note)
+- [JavaEE相关学习笔记](https://zhangchaney.github.io/JavaEE-note)
 
 ### 交流与反馈
 [E-Mail](zhangqiuqian01@gmail.com) ： **zhangqiuqian01@gmail.com**
